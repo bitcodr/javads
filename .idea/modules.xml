@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithm.iml" filepath="$PROJECT_DIR$/.idea/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashTableSimple/hashTableSimple.iml" filepath="$PROJECT_DIR$/hashTableSimple/hashTableSimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/intersect/intersect.iml" filepath="$PROJECT_DIR$/intersect/intersect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/printStarts/printStarts.iml" filepath="$PROJECT_DIR$/printStarts/printStarts.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse/reverse.iml" filepath="$PROJECT_DIR$/reverse/reverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/simpleLinkedList/simpleLinkedList.iml" filepath="$PROJECT_DIR$/simpleLinkedList/simpleLinkedList.iml" />
     </modules>
