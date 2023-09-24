@@ -1,5 +1,6 @@
 package org.algorithm_datastructure;
 
+
 import java.util.Arrays;
 
 public class sort_selection {
@@ -10,7 +11,7 @@ public class sort_selection {
 
     private static int[] sort(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
-            int smallIndex = i;  
+            int smallIndex = i;
             for (int j = i + 1; j < nums.length; j++) {
                 if (nums[j] < nums[smallIndex]) {
                     smallIndex = j;
